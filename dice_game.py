@@ -21,5 +21,6 @@ def main():
     else:
         print('Tie!')
 
-main()
+if __name__ == "__main__":
+    main()
 
